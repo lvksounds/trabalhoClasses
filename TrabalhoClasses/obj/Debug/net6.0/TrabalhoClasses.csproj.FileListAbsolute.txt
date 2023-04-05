@@ -1,0 +1,15 @@
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\bin\Debug\net6.0\TrabalhoClasses.exe
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\bin\Debug\net6.0\TrabalhoClasses.deps.json
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\bin\Debug\net6.0\TrabalhoClasses.runtimeconfig.json
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\bin\Debug\net6.0\TrabalhoClasses.dll
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\bin\Debug\net6.0\TrabalhoClasses.pdb
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.csproj.AssemblyReference.cache
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.AssemblyInfoInputs.cache
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.AssemblyInfo.cs
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.csproj.CoreCompileInputs.cache
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.dll
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\refint\TrabalhoClasses.dll
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.pdb
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\TrabalhoClasses.genruntimeconfig.cache
+C:\Users\202110832\Documents\pooiLucas\TrabalhoClasses\TrabalhoClasses\TrabalhoClasses\obj\Debug\net6.0\ref\TrabalhoClasses.dll
